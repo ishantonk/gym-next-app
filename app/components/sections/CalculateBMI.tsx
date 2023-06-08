@@ -52,6 +52,7 @@ const CalculateBMI = () => {
                                 text-neutral-500
                                 mb-6
                                 md:mb-10
+                                md:w-1/2
                             "
                         >
                             The Body Mass Index (BMI) Calculator calculates body
